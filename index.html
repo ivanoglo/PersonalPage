@@ -30,7 +30,7 @@
                 shape: 'dot', // Node shape
                 size: 20, // Default size for all nodes
                 font: {
-                    size: 12,
+                    size: 24, // Default font size (will be overridden)
                     color: '#000000',
                     face: 'arial',
                     strokeWidth: 3,
@@ -49,12 +49,17 @@
                 }
             },
             edges: {
-                smooth: false
+                smooth: false,
+                color: {
+                    color: '#000000', // Default edge color (black)
+                    highlight: '#ff0000', // Highlighted edge color
+                    hover: '#ff0000' // Hovered edge color
+                }
             },
             physics: {
                 stabilization: false,
                 barnesHut: {
-                    gravitationalConstant: -80000,
+                    gravitationalConstant: -8000,
                     springConstant: 0.001,
                     springLength: 200
                 }
@@ -71,44 +76,57 @@
                 var tagNodes = new Set();
                 var connectionCounts = {};
 
+                // Define original colors for different node types
+                const originalColors = {
+                    song: { border: '#000000', background: '#ffffff' }, // Default for songs
+                    tag: { border: '#0000ff', background: '#ccffff' }, // Blueish for tags
+                    genre: { border: '#ff0000', background: '#ffcccc' } // Reddish for "All Genres"
+                };
+
                 data.forEach((row, index) => {
                     console.log("Parsing row:", row); // Log each row
 
                     // Create song node
                     var songLabel = `${row.name} - ${row.author}`;
                     var songId = `song_${index}`;
-                    nodes.add({ id: songId, label: songLabel, group: 'song' });
+                    nodes.add({ id: songId, label: songLabel, group: 'song', color: originalColors.song });
                     connectionCounts[songId] = 0; // Initialize connection count
 
                     // Create or use existing tag nodes and create edges
                     [row.tag1, row.tag2, row.tag3].forEach(tag => {
                         if (tag) {
                             if (!tagNodes.has(tag)) {
-                                nodes.add({ id: tag, label: tag, group: 'tag' });
+                                nodes.add({ id: tag, label: tag, group: 'tag', color: originalColors.tag });
                                 tagNodes.add(tag);
                                 connectionCounts[tag] = 0; // Initialize connection count for tags
                             }
-                            edges.add({ from: songId, to: tag });
+                            edges.add({ from: songId, to: tag, color: '#000000' }); // Set edge color to black
                             connectionCounts[songId]++; // Increment connection count for song
                             connectionCounts[tag]++; // Increment connection count for tag
                         }
                     });
                 });
 
-                // Add "All Genres" node with a constant size of 35
+                // Add "All Genres" node with a constant size of 35 and font size of 30
                 var allGenresId = 'all_genres';
-                nodes.add({ id: allGenresId, label: 'All Genres', group: 'genre', size: 35 });
+                nodes.add({ id: allGenresId, label: 'All Genres', group: 'genre', size: 35, color: originalColors.genre });
 
-                // Connect "All Genres" to all tags
+                // Connect "All Genres" to all tags with edges
                 tagNodes.forEach(tag => {
-                    edges.add({ from: allGenresId, to: tag });
+                    edges.add({ from: allGenresId, to: tag, color: '#000000' }); // Set edge color to black
                 });
 
-                // Update node sizes based on connection count, excluding "All Genres"
-                nodes.update(nodes.get().map(node => ({
-                    id: node.id,
-                    size: node.id === allGenresId ? 35 : Math.max(10, connectionCounts[node.id] * 2) // Ensure "All Genres" has a fixed size
-                })));
+                // Update node sizes and font sizes based on connection count
+                nodes.update(nodes.get().map(node => {
+                    const connectionCount = connectionCounts[node.id];
+                    const size = node.id === allGenresId ? 35 : Math.max(10, connectionCount * 2); // Ensure "All Genres" has a fixed size
+                    const fontSize = node.id === allGenresId ? 30 : Math.min(24, 12 + connectionCount * 2); // Constant font size for "All Genres"
+                    return {
+                        id: node.id,
+                        size: size,
+                        font: { size: fontSize } // Set the calculated font size
+                    };
+                }));
 
                 console.log("Nodes:", nodes.get());
                 console.log("Edges:", edges.get());
@@ -119,6 +137,59 @@
                 };
 
                 var network = new vis.Network(container, networkData, options);
+
+                // Event listener for node clicks
+                network.on("selectNode", function(params) {
+                    // Reset all nodes to their original color
+                    nodes.update(nodes.get().map(node => ({
+                        id: node.id,
+                        color: originalColors[node.group] // Reset to original color based on group
+                    })));
+
+                    // Reset all edges to black
+                    edges.update(edges.get().map(edge => ({
+                        id: edge.id,
+                        color: '#000000' // Reset edge color to black
+                    })));
+
+                    // Highlight the selected node and its neighbors
+                    var selectedNodeId = params.nodes[0];
+                    var neighbors = network.getConnectedNodes(selectedNodeId);
+
+                    // Highlight the selected node and its neighbors
+                    nodes.update([
+                        { id: selectedNodeId, color: { border: '#ff0000', background: '#ffcccc' } }, // Highlight selected node
+                        ...neighbors.map(neighborId => ({
+                            id: neighborId,
+                            color: { border: '#00ff00', background: '#ccffcc' } // Highlight neighbors with a greener color
+                        }))
+                    ]);
+
+                    // Change the color of edges connected to the selected node
+                    edges.update(edges.get().map(edge => {
+                        if (edge.from === selectedNodeId || edge.to === selectedNodeId) {
+                            return { id: edge.id, color: '#00ff00' }; // Change edge color to green if connected to selected node
+                        }
+                        return edge; // Return unchanged edge
+                    }));
+                });
+
+                // Event listener for clicking on the network (deselect)
+                network.on("click", function(params) {
+                    if (params.nodes.length === 0) {
+                        // Reset all nodes to their original color
+                        nodes.update(nodes.get().map(node => ({
+                            id: node.id,
+                            color: originalColors[node.group] // Reset to original color based on group
+                        })));
+
+                        // Reset all edges to black
+                        edges.update(edges.get().map(edge => ({
+                            id: edge.id,
+                            color: '#000000' // Reset edge color to black
+                        })));
+                    }
+                });
             })
             .catch(error => console.error('Error loading CSV:', error));
     </script>
