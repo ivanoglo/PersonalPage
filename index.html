@@ -3,12 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Network Graph</title>
+    <title>Music Network Graph</title>
     <script type="text/javascript" src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
+    <script type="text/javascript" src="https://d3js.org/d3-dsv.v2.min.js"></script>
     <style>
+        /* Set html and body to full height */
+        html, body {
+            height: 100%;
+            margin: 0; /* Remove default margin */
+        }
+
         #mynetwork {
-            width: 100%;
-            height: 600px;
+            width: calc(100% - 20px); /* Full width minus margins */
+            height: calc(100vh - 20px); /* Full height minus margins */
+            margin: 10px; /* 10px margin around the graph */
             border: 1px solid lightgray;
         }
     </style>
@@ -16,60 +24,103 @@
 <body>
     <div id="mynetwork"></div>
     <script>
-        // Load the GEXF file
         var container = document.getElementById('mynetwork');
         var options = {
             nodes: {
-                shape: 'circle',
-                size: 25,
+                shape: 'dot', // Node shape
+                size: 20, // Default size for all nodes
                 font: {
-                    size: 12
+                    size: 12,
+                    color: '#000000',
+                    face: 'arial',
+                    strokeWidth: 3,
+                    strokeColor: '#ffffff'
+                },
+                scaling: {
+                    min: 10, // Minimum size for dots
+                    max: 20, // Reduced maximum size for dots
+                    label: {
+                        enabled: false // Disable label scaling
+                    }
+                },
+                color: {
+                    border: '#000000',
+                    background: '#ffffff'
                 }
             },
             edges: {
                 smooth: false
             },
-            physics: true
+            physics: {
+                stabilization: false,
+                barnesHut: {
+                    gravitationalConstant: -80000,
+                    springConstant: 0.001,
+                    springLength: 200
+                }
+            }
         };
 
-        // Fetch the GEXF file and render it
-        fetch('First.gexf')
+        // Fetch the CSV file and render it
+        fetch('data/songs.csv')
             .then(response => response.text())
-            .then(gexfData => {
-                var parser = new DOMParser();
-                var gexfDoc = parser.parseFromString(gexfData, "application/xml");
-                
+            .then(csvData => {
+                var data = d3.csvParse(csvData);
                 var nodes = new vis.DataSet();
                 var edges = new vis.DataSet();
+                var tagNodes = new Set();
+                var connectionCounts = {};
 
-                // Parse nodes
-                var nodeElements = gexfDoc.getElementsByTagName("node");
-                for (var i = 0; i < nodeElements.length; i++) {
-                    var node = nodeElements[i];
-                    nodes.add({
-                        id: node.getAttribute("id"),
-                        label: node.getAttribute("label") || node.getAttribute("id")
+                data.forEach((row, index) => {
+                    console.log("Parsing row:", row); // Log each row
+
+                    // Create song node
+                    var songLabel = `${row.name} - ${row.author}`;
+                    var songId = `song_${index}`;
+                    nodes.add({ id: songId, label: songLabel, group: 'song' });
+                    connectionCounts[songId] = 0; // Initialize connection count
+
+                    // Create or use existing tag nodes and create edges
+                    [row.tag1, row.tag2, row.tag3].forEach(tag => {
+                        if (tag) {
+                            if (!tagNodes.has(tag)) {
+                                nodes.add({ id: tag, label: tag, group: 'tag' });
+                                tagNodes.add(tag);
+                                connectionCounts[tag] = 0; // Initialize connection count for tags
+                            }
+                            edges.add({ from: songId, to: tag });
+                            connectionCounts[songId]++; // Increment connection count for song
+                            connectionCounts[tag]++; // Increment connection count for tag
+                        }
                     });
-                }
+                });
 
-                // Parse edges
-                var edgeElements = gexfDoc.getElementsByTagName("edge");
-                for (var i = 0; i < edgeElements.length; i++) {
-                    var edge = edgeElements[i];
-                    edges.add({
-                        from: edge.getAttribute("source"),
-                        to: edge.getAttribute("target")
-                    });
-                }
+                // Add "All Genres" node with a constant size of 35
+                var allGenresId = 'all_genres';
+                nodes.add({ id: allGenresId, label: 'All Genres', group: 'genre', size: 35 });
 
-                var data = {
+                // Connect "All Genres" to all tags
+                tagNodes.forEach(tag => {
+                    edges.add({ from: allGenresId, to: tag });
+                });
+
+                // Update node sizes based on connection count, excluding "All Genres"
+                nodes.update(nodes.get().map(node => ({
+                    id: node.id,
+                    size: node.id === allGenresId ? 35 : Math.max(10, connectionCounts[node.id] * 2) // Ensure "All Genres" has a fixed size
+                })));
+
+                console.log("Nodes:", nodes.get());
+                console.log("Edges:", edges.get());
+
+                var networkData = {
                     nodes: nodes,
                     edges: edges
                 };
 
-                var network = new vis.Network(container, data, options);
+                var network = new vis.Network(container, networkData, options);
             })
-            .catch(error => console.error('Error loading GEXF:', error));
+            .catch(error => console.error('Error loading CSV:', error));
     </script>
 </body>
 </html>
