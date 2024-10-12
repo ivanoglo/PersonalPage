@@ -1,61 +1,786 @@
 name,author,tag1,tag2,tag3
-On the Level,Mac DeMarco,Indie,Rock,Lo-fi
-Empire Ants (feat. Little Dragon),Gorillaz,Alternative,Rock,Trip-Hop
-Congratulations,MGMT,Psychedelic,Rock,Indie
-SugarCrash!,ElyOtto,Hyperpop,Electropop,Glitchcore
-Miami,Jasper Byrne,Synthwave,Electronic,Ambient
-Embryonic Journey,Jefferson Airplane,Folk,Rock,Psychedelic
-reaching out.,the girl next door,Indie,Pop,Lo-fi
-Hole In Ocean,DyE,Synthpop,Electronic,Alternative
-Хуй в муке,Казённый Унитаз,Punk,Rock,Hardcore
-Razrushitelniy Krug (Destructive Cycle),Kedr Livanskiy,Electronic,Experimental,Synthpop
-Beams,Tape SWEDEN,Indie,Pop,Experimental
-Chromakey Dreamcoat,Boards of Canada,Ambient,Electronic,IDM
-Peacock Tail,Boards of Canada,Ambient,IDM,Electronic
-Window Licker,Aphex Twin,IDM,Experimental,Electronic
-Say Can You Hear (garage session),Men I Trust,Indie,Pop,Dream
-Idioteque,Radiohead,Alternative,Rock,Electronic
-Work This Time,King Gizzard & The Lizard Wizard,Psychedelic,Rock,Garage
-SLO-DANCIN',RICKY EAT ACID,Ambient,Experimental,Chillwave
-Andromeda (feat. DRAM),Gorillaz,Electronic,Alternative,Rock
-Just a Cloud,Lusine,Ambient,Electronic,Downtempo
-I Against I,Massive Attack,Trip-Hop,Electronic,Alternative
-Crimewave,Crystal Castles,Electronic,Synthpop,Noise
-Mysterons,Portishead,Trip-Hop,Alternative,Rock
-Klymaxx,Com Truise,Synthwave,Electronic,Chillwave
-Killing An Arab,The Cure,Post-Punk,Alternative,Rock
-Колея,plenka,Ambient,Electronic,Experimental
-Shine,The Violent Youth,Synthpop,Alternative,Electronic
-Mr Magic And Marley Marl Rap Attack Show- 107.5 FM WBLS 1987,Mister Magic & Marley Marl,Hip,Hop,Radio
-Sleepless Nights,FM Attack,Synthwave,Electronic,Chillwave
-The Party,Justice,Electronic,French,House
-Red River,The Symposium,Indie,Rock,Garage
-2 Mello Noize The Invasion,Mr0Easy,Hip,Hop,Instrumental
-A New Error,Moderat,Electronic,IDM,Techno
-NEVER feat. O_Super,MAG.LO & O_SUPER,Hip,Hop,Alternative
-TRAXXXMANIA,GONE.Fludd,Hip,Hop,Trap
-ВУДУ,GONE.Fludd,Hip,Hop,Alternative
-Oirectine,Boards Of Canada,Ambient,IDM,Electronic
-Twoism,Boards of Canada,Ambient,Electronic,IDM
-Frog Hollow (Instrumental),Mac DeMarco,Indie,Rock,Instrumental
-school rooftop,hisohkah,Lo-fi,Hip,Hop
-this semester,HM Surf,Lo-fi,Hip,Hop
-Let Me Alone,Moow,Lo-fi,Hip,Hop
-возвращайся rangel vox coverr,i question my decisions,Alternative,Lo-fi,Indie
-автоспорт-песня о привязанности,Автоспорт,Russian,Rock,Alternative
-sssllltttt - надежда,immoral character,Alternative,Post-Punk,Experimental
-Буерак   Страсть к Курению,Trulyr,Post-Punk,Russian,Rock
-школа не нужна synth punk remix,Пошлая Молли,Synth,Punk,Punk
-disorder,паша техник,Alternative,Hip,Hop
-шрамы rslow 0r9xr,щенки,Alternative,Post-Punk,Experimental
-День Отца,Щенки,Alternative,Rock,Post-Punk
-Почему это вечно со мной происходитr,trrrrrrrrrr,Experimental,Lo-fi,Ambient
-yourre such a strange girl,joozi,Indie,Pop,Lo-fi
-НРКТ r ДОСВИДОШЬ rslowedr,despairr,Russian,Hip,Hop
-рей,leehani,Indie,Alternative,Experimental
-Мало Тебя,карусель для друзей,Indie,Alternative,Rock
-ненависть rrr rr [slowed],щенки,Alternative,Post-Punk,Experimental
-Лузер rDoomer Editionr,Увула,Doomer,Music,Post-Punk
-Rasplyvajecca,Nrrnberg,Post-Punk,Russian,Rock
-apathy ptr 2,rare_disorder,Alternative,Experimental,Post-Punk
-4 утра,галантерея,Indie,Rock,Post-Punk
+The Girl From Ipanema,Astrud Gilberto,Bossa Nova,Jazz,Samba
+Gloomy Flash (feat. mami),Zekk & poplavor,Electronic,Trap,Future Bass
+INVISIBLE,Duran Duran,New Wave,Synthpop,Alternative Rock
+Work This Time,flightless,Psychedelic Rock,Garage Rock,Indie Rock
+нервы,нервы,Russian Rock,Alternative,Post-Punk
+Dust,M.O.O.N.,Synthwave,Electronic,Ambient
+Ocb (sp4k Remix),Boulevard Depo,Hip Hop,Rap,Russian Hip Hop
+Hollowheart ft. Amy Millan,Porter Robinson,Electronic,House,Indie
+Only Time,Enya,New Age,Ambient,Chillout
+Orinoco Flow (2009 Remaster),Enya,New Age,Ambient,World
+Sex Paranoïa,Goldie Boutilier,Synthpop,Pop,Indie Pop
+EASY PEAZY,ROMANTICA & Lestmor,Electronic,Indie Pop,Chillwave
+𝔸𝕟𝕚𝕞𝕒𝕝 𝕀 𝕙𝕒𝕧𝕖 𝕓𝕖𝕔𝕠𝕞𝕖 (𝐬𝐥𝐨𝐰𝐞𝐝),𝑻𝒉𝒓𝒆𝒆 𝑫𝒂𝒚𝒔 𝑮𝒓𝒂𝒄𝒆,Alternative Rock,Post-Grunge,Rock
+INDIGO,NXCRE & The Villains,Trap,Alternative Hip Hop,Electronic
+we are the people - empire of the sun(sped up+reverb),notamaincharacter,Alternative,Indie Rock,Electropop
+Underwater Sun,SIDEWALKS AND SKELETONS,Electronic,Witch House,Dreamwave
+char (slowed + reverb),crystal castles,Electronic,Noise,Experimental
+EXORCISM [NEW ALBUM OUT NOW!!],Sidewalks and Skeletons,Witch House,Electronic,Ambient
+4am,soft siren,Dream Pop,Chillwave,Indie Pop
+In Heaven Together,bbragui,Synthpop,Dream Pop,Indie
+Final Wish,ooxygen,Dream Pop,Indie Pop,Electronic
+Dawn Chorus,Boards of Canada,Ambient,Electronic,IDM
+Gazin',Ringo Deathstarr,Shoegaze,Dream Pop,Psychedelic Rock
+White Light,Sidewalks And Skeletons,Electronic,Witch House,Dreamwave
+Blank [NCS Release],Disfigure,Electronic,House,Dance
+I Follow Rivers,Lykke Li,Indie Pop,Electronic,Alternative
+HARUKO,Crystal Cola,Future Funk,Chillwave,Vaporwave
+On My Way,Rosentwig,Electronic,Indie Pop,Ambient
+Orion,Crystal Cola,Future Funk,Chillwave,Electronic
+Take Off!,A.L.I.S.O.N,Electronic,Synthwave,Chillwave
+Seaside Cocktail,Crystal Cola,Future Funk,Chillwave,Electronic
+Buba,FindMyName,Indie Rock,Indie Pop,Alternative
+Short Circuit,A.L.I.S.O.N & Rosentwig,Synthwave,Electronic,Ambient
+Whole Ride (Feat. Nosgov),Hiko Momoji & Nova,Trap,Cloud Rap,Alternative Hip Hop
+utsukushi yume no yume,Rory in early 20s,Indie,Experimental,Dream Pop
+Iwakura,Iwakura,Electronic,Experimental,Ambient
+you're my friend now (w/ DXRKWRLD),usedcvnt,Hyperpop,Alternative,Trap
+limited in love (w/ AKIBA),usedcvnt,Hyperpop,Indie Pop,Trap
+e e e e,wiv,Experimental,Electronic,Ambient
+Serial Experiments Lain - Cyberia Theme,Chief Bubba,Electronic,IDM,Ambient
+lain,23arms,Ambient,Electronic,Experimental
+Magic (feat. Kristine),FM Attack,Synthwave,Dreamwave,Electronic
+Колея,plenka,Indie Rock,Russian Rock,Lo-fi
+Дёготь,Palina,Indie Pop,Singer-Songwriter,Alternative
+Don't Count,Knerv,Indie Rock,Garage Rock,Alternative
+ЛОШОК ( LAPTI prod. ),Паша Техник,Russian Hip Hop,Trap,Alternative Hip Hop
+СПАСАЕТ ПАРАНОЯ ( CLICK MONSTAH prod. ),Паша Техник,Russian Hip Hop,Alternative,Trap
+Ахуенно Кого-Нибудь Убить ( feat. The Chemodan Clan ),Паша Техник,Russian Hip Hop,Gangsta Rap,Alternative
+15) Поёте Так Себе v.2.0 (при уч. Паша Техник),SpaceCave,Russian Hip Hop,Trap,Alternative
+00е,Убийцы,Russian Rock,Alternative,Post-Punk
+✧ убийцы - самодиагнозы ✧,hanagasumi,Post-Punk,Experimental,Indie Rock
+comecloser,Eliminate*,Dubstep,Bass,Electronic
+divine,Eery,Electronic,Alternative,Indie
+Stabilisers For Big Boys,Panchiko,Indie Rock,Alternative,Lo-fi
+D>E>A>T>H>M>E>T>A>L,Panchiko,Indie Rock,Alternative,Lo-fi
+ПЭ№90 : Ал-90,BPAГ,Post-Punk,Alternative,Indie Rock
+Секретарша,Убийцы,Russian Rock,Post-Punk,Alternative
+Динамо,Убийцы,Russian Rock,Post-Punk,Alternative
+V Limo (New Donk Shitty),Bill Kiley,Electronic,Ambient,Chillwave
+Worst Neighbors Ever,Bill Kiley,Electronic,Ambient,Chillwave
+Грусть,uncle pecos,Indie Rock,Post-Punk,Alternative
+welcome 2 night city,K!LL,Electronic,Synthwave,Dreamwave
+accident prone *OUT ON SPOTIFY*,ryuk,Hyperpop,Trap,Cloud Rap
+Leave by Whirr lq + slowed,‎,Shoegaze,Indie Rock,Dream Pop
+Lobby Lounge Theme,Warren Grugett,Lo-fi,Ambient,Chillhop
+Sleepwalker,akiaura & LONOWN & STM,Electronic,Indie Pop,Lo-fi
+I LOVE YOU HOE (Purnell Media Solutions Collective Edition),Odetari X 9lives,Hip Hop,Trap,Cloud Rap
+FASHION (SPEED UP),Britney Manson,Pop,Dance,Electronic
+#BROOKLYNBLOODPOP!,syko,Hyperpop,Electronic,Pop
+Sparks - Coldplay,Mac Levine,Alternative Rock,Britpop,Indie
+GGW,Cheech,Lo-fi,Chillhop,Indie
+A Fighting Chance,The Post Sips,Indie Rock,Alternative,Garage Rock
+самая клёвая тёлка в школе,Пошлая Молли,Synth Punk,Punk Rock,Alternative
+Or You Will Nuke Possum Springs,☻ ☼︎✌︎✋︎☠︎ ⚐︎ ☠︎ 💣︎⚐︎☠︎👎︎✌︎✡︎💧︎ ☻,Experimental,Noise,Electronic
+IVOXYGEN -Urban Melody,.angel,Indie Pop,Electronic,Chillwave
+someday by the uchpochmack,regiibk,Indie,Alternative,Experimental
+BLACKOUT,KoruSe & CHMCL SOUP,Electronic,Trap,Alternative
+vvalleys - scars (remix adli),iwanttobeehappy,Indie Pop,Chillwave,Electronic
+Slime & Sword,5admin,Electronic,Ambient,Indie
+Mujuice – Underground,ƊЄstroĪĐヅ,Electronic,Experimental,Ambient
+Kunteiynir-Кассир во Fred Perry,Yurii Vovk,Russian Hip Hop,Trap,Alternative
+18:45:54,Kunteynir,Russian Hip Hop,Gangsta Rap,Trap
+В МАРШРУТКЕ ШАНСОН,KUNTEYNIR / РАСКОЛЬНИКОВ,Russian Hip Hop,Trap,Alternative
+Evade ( Free Download ),Emil Rottmayer,Synthwave,Electronic,Chillwave
+Southbound,Lucy in Disguise,Synthwave,Chillwave,Electronic
+Emerge - Fischerspooner (Daft Punk mix),Herb the French,Electronic,House,Dance
+You Are My High (Vitalic Remix),DEMON,Electronic,Dance,House
+Kunteynir – Ольга Марковна,omgpewpower,Russian Hip Hop,Gangsta Rap,Trap
+Dimanche Soir (feat. ACE),Lucas de Gastines,Indie,Chillwave,Electronic
+Кино - Группа крови,Dimitri Liparteliani,Russian Rock,Post-Punk,Alternative
+On Melancholy Hill,Everything Gorillaz - P3,Alternative Rock,Indie Rock,Electronic
+Следи за собой,KinoCoj,Russian Rock,Post-Punk,Alternative
+Закрой за мной дверь, я ухожу,KinoCoj,Russian Rock,Post-Punk,Alternative
+Апрель,KinoCoj,Russian Rock,Post-Punk,Alternative
+Звезда по имени Солнце,KinoCoj,Russian Rock,Post-Punk,Alternative
+The Hellp - Sinamen,xxxtalll,Electronic,Noise,Experimental
+Tu Tu Neurotic (First Edition. Rare) By The Hellp,CorpseCycle,Noise,Experimental,Electronic
+TIMURKA BITS - ДИСС НА КОПОВ,Иванов Эдик,Russian Hip Hop,Trap,Gangsta Rap
+The Hellp - 4up7up,Terrible Records,Electronic,Noise,Experimental
+The Hellp - feel NY,The Hellp,Noise,Experimental,Electronic
+the hellp - hotfun 22 (demo),xxxtalll,Noise,Electronic,Experimental
+Tyttö ep,Tomppabeats,Lo-fi Hip Hop,Chillhop,Indie
+SHADOW LADY,PORTWAVE,Electronic,Future Funk,Chillwave
+Linkin Park - Faint,Juraj Bačík,Alternative Rock,Nu Metal,Post-Grunge
+Unwound (ft. andy shand),ADMO,Indie Rock,Post-Rock,Alternative
+WEEDJIE - SOS,WEEDJIE(ВиДжи),Electronic,Indie,Experimental
+cold & lonely,LovelySharkPlush,Lo-fi,Chillwave,Dream Pop
+warmth,LovelySharkPlush,Lo-fi,Chillwave,Dream Pop
+C418 - Thunderbird,nollman (ät bajs),Electronic,Ambient,Chillwave
+Закрытый Профиль,Vlone,Russian Rock,Alternative,Indie Rock
+Timeline,Hiérophante,Indie Pop,Electronic,Chillwave
+Убей меня Эйс - "LSD" daycore/slowed/down up,Кисоко,Electronic,Slowed,Alternative
+Trance - 009 Sound System Dreamscape,Maximojaimes,Trance,Electronic,Dance
+Windows95,BONES,Indie Rock,Alternative,Experimental
+DIE ANTWOORD - BANANA BRAIN,Prosmash,Electronic,Rave,Alternative Hip Hop
+витебск-таллин,superkomfort,Electronic,Experimental,Indie
+Воллны - Волны,●𝕺𝖈𝖈𝖛𝖑𝖙-𝕱𝖔𝖗𝖊𝖘𝖙●,Electronic,Alternative,Ambient
+Воллны – Тебя нет рядом,ithelps,Alternative,Electronic,Indie
+Something,RecLab,Indie Rock,Alternative,Indie Pop
+Закладка,Ploho,Russian Rock,Post-Punk,Alternative
+Вера в прекрасное,Ploho,Russian Rock,Post-Punk,Alternative
+Страна Дураков,Ploho,Russian Rock,Post-Punk,Alternative
+Молодость,Ploho,Russian Rock,Post-Punk,Alternative
+Riders On The Storm,The Doors,Classic Rock,Blues Rock,Psychedelic Rock
+Fade Into You,Mazzy Star (Official),Dream Pop,Indie Rock,Alternative
+Sail - Mareux,Vivian,Doomer Music,Post-Punk,Alternative
+Мой друг под кислотой,wpcwe,Alternative,Indie Rock,Post-Punk
+Дыхание,PRIRODA,Indie Rock,Post-Punk,Alternative
+Магнит,ШЫША,Russian Rock,Indie Rock,Post-Punk
+InStyle,Cheech,Lo-fi,Chillhop,Indie
+My Existence Afterparty,Gazellefangs,Indie Rock,Dream Pop,Indie Pop
+БАСЫ ДОЛБЯТ,SOSKA 69,Electronic,Trap,Bass
+В аквапарке,KUNTEYNIR,Russian Hip Hop,Gangsta Rap,Trap
+Её виной,Макс Корж,Russian Pop,Rap,Alternative
+Макс Корж - Стилево,Макс Корж,Russian Pop,Rap,Alternative
+Сожжены,Макс Корж,Russian Pop,Rap,Alternative
+Горы по колено,Макс Корж,Russian Pop,Rap,Alternative
+øneheart x reidenshi - snowfall (slowed reverb),Vezal & Reidenshi,Electronic,Chillwave,Dream Pop
+SCRIPTZ x JON T - PALE HORSE,jon t,Trap,Alternative,Cloud Rap
+I Heard You Like Polyrhythms,Pumawesome,Experimental,Indie,Alternative
+Good Morning (PROD. Nikblor),Baby Jayy,Indie Pop,Chillwave,Lo-fi
+Carpenter Brut - Le Perv (30% Slower),big_bucks,Synthwave,Electronic,Retrowave
+Le Perv,Carpenter Brut,Synthwave,Electronic,Retrowave
+Rapp Snitch Knishes (Live Instrumental) (Cover),OMA,Hip Hop,Instrumental,Live
+The Do - Slippery Slope (Vitalic Remix),Vitalic Official,Electronic,Dance,House
+Chikoi The Maid - Returnal,Alter3030,Chiptune,Electronic,Indie
+Went Thru It,Young Thug,Hip Hop,Trap,Alternative
+good loyal thots  ODETARI instrumental  slowed  louder,zankoqqe,Hyperpop,Trap,Electronic
+Bag Raiders - Shooting Stars (Slowed),Brado,Electronic,Indie,Chillwave
+Ｓ Ｙ Ｎ Ａ Ｐ Ｓ Ｅ,ANGEL CANNON,Electronic,Indie,Experimental
+𝔢𝔪𝔟𝔯𝔞𝔠𝔢 (𝔰𝔩𝔬𝔴𝔢𝔡),lil nikki ^^,Alternative,Indie Rock,Slowed
+Resonance x Genesis x Not Allowed (Slowed + Reverb),Tony_S𒉭,Slowed,Reverb,Electronic
+M.U.S.I.C (SymbolOne Remix),SymbolOne,Electronic,Dance,House
+Magna - Divide (Hotline Miami 2 : Wrong Number OST),Magna,Synthwave,Electronic,Chiptune
+Variation of "Ode" (Frozen City B) - Nuclear Throne,Splattie,Chiptune,Electronic,Indie
+Nuclear Throne OST- Frozen City Theme B Extended,Roll20musicpls,Chiptune,Electronic,Indie
+Sh Boom Life Could Be a Dream,The Chordettes,Oldies,Pop,Doo-Wop
+Kittycuts,Medoi The Maid & Akui The Maid,Electronic,Hyperpop,Experimental
+just one sec,Eery,Indie,Electronic,Alternative
+thinkaboutit,Eliminate*,Bass,Electronic,Dubstep
+She Swallowed Burning Coals,EL TIGR3,Electronic,Experimental,Noise
+L'AMOUR ET LA VIOLENCE (Boys Noize Euro mix),marc9132,Electronic,Dance,House
+Black Racers ( Mother Russia Bleeds soundtrack ),Fixions,Synthwave,Electronic,Chiptune
+Plug in Baby Rearranged and Remastered,The Flame,Alternative Rock,Indie Rock,Post-Grunge
+Etienne De Crecy Featuring Camille - Someone Like You (Fast Track Vocal Mix),Carol Olguin,Electronic,House,Dance
+The Past -Vitalic (remix Par Oré),ORE / ERO,Electronic,Dance,House
+sidewalks and skeletons - goth [slowed],Ruski,Electronic,Witch House,Slowed
+Передай (feat. Паша Техник & Гради),AVEGA,Russian Hip Hop,Trap,Gangsta Rap
+Вейп-Вейп-Вейп ft. ЛСП, Young P&H, ЭПП, Заебатсу, Букер Д. Фред,ХАН ЗАМАЙ & СЛАВА КПСС,Russian Hip Hop,Trap,Alternative
+SPIT IN MY FACE!,Juicewrldd4L_2,Hip Hop,Trap,Cloud Rap
+Scythe,Deadcrow,Electronic,Trap,Alternative
+joji die for you but it's 2:23am,its.eddie,Indie,Alternative,Experimental
+She Loves Only Him,Cinnamon Chasers,Synthwave,Chillwave,Electronic
+SMSOU w/ Frost Children,Eliminate*,Hyperpop,Electronic,Experimental
+EGOTRIP,Eliminate*,Hyperpop,Electronic,Experimental
+♡~Always Forever// Cults -,Bxtmxn,Indie Pop,Dream Pop,Lo-fi
+Untitled #13 - Glwzbll (slowed),tom,Electronic,Experimental,Slowed
+Dawn w/ Flux Pavilion (Feat. meesh),Eliminate*,Bass,Dubstep,Electronic
+Вселенная бесконечна?,Noize MC,Russian Rock,Alternative,Indie
+Больше денег,ЛСП,Russian Hip Hop,Alternative,Trap
+Tek It,Cafuné,Indie Pop,Electronic,Alternative
+Gameplay Theme 7,Warren Grugett,Chillhop,Electronic,Ambient
+Gameplay Theme 5,Warren Grugett,Chillhop,Electronic,Ambient
+I Watch The Moon,Heimanu,Indie Pop,Electronic,Dream Pop
+SimpsonWave1995,FrankJavCee,Electronic,Vaporwave,Chillwave
+Пожалуйста, только не домой,Автоспорт,Russian Rock,Indie Rock,Lo-fi
+CHERNOBURKV - POCHEMU,lxnaya,Indie Rock,Alternative,Lo-fi
+ash,633397,Indie Pop,Lo-fi,Dream Pop
+Fire Island & Billy Shakes,The Symposium,Indie Rock,Alternative,Garage Rock
+Luv Deluxe,Cinnamon Chasers,Synthwave,Chillwave,Electronic
+Sak Noel - Loca People (Explicit Radio Edit),3BEAT,Electronic,Dance,House
+Виктор Цой - Спокойная ночь (slowed + reverbed version),zzzavani,Russian Rock,Post-Punk,Slowed
+Улица Восток - Снова Привет( feat. МАРНИЙ),улица восток,Russian Rock,Indie Rock,Alternative
+around,Modulogeek,Indie Rock,Chillwave,Electronic
+your face (you look at me the same but I can't reciprocate),𝙷𝚘𝚛𝚞𝚔𝚘_,Electronic,Experimental,Ambient
+Slowed caramelldansen from another room,Ren | Mothie >:l,Electronic,Slowed,Experimental
+Teen Pregnancy,Blank Banshee,Vaporwave,Electronic,Chillwave
+СОЛЬ И СПОРТ,DJ ПЕРЕКРЫТ,Russian Hip Hop,Trap,Alternative
+Dramarama- Anything, Anything,lulub78,Alternative Rock,Post-Punk,Indie
+Paradise,VMacbeth,Indie Rock,Alternative,Dream Pop
+plenka - Symptoms,cluboviy,Indie Rock,Alternative,Russian Rock
+Браво & Жанна Агузарова - Верю я,Жанна Агузарова и Браво,Russian Rock,Pop,Indie
+The Bottom 2,Glorb,Indie Pop,Electronic,Chillwave
+Дельфин - Любовь,mr.avsh,Russian Rock,Indie Rock,Alternative
+Vitalic - Next I'm ready,O__KLY ™,Electronic,Dance,House
+Akumu (UN|T Cover),Medoi The Maid,Electronic,Experimental,Indie
+Vitalic • Second Lives,Vitalic,Electronic,House,Techno
+Vitalic - Rave Kids Go,Vitalic,Electronic,House,Techno
+Рассвет,Какая Разница,Indie Rock,Russian Rock,Alternative
+911,Элджей,Russian Hip Hop,Trap,Alternative
+Styles of Beyond - Nine Thou (Slowed Perfectly),THORSUN,Electronic,Slowed,Hip Hop
+Wunder King,Элджей,Russian Hip Hop,Trap,Alternative
+Wake Up - Rage Against The Machine (Guitar Cover),nachohendrix,Alternative Rock,Post-Grunge,Indie
+Sobakka (ака. Олег Броварской) - Белье EP,Вадим041,Indie Rock,Lo-fi,Alternative
+Murderer,VAPIRA,Indie Rock,Alternative,Post-Punk
+Suicide,moonvampire,Post-Punk,Indie Rock,Alternative
+The Green Kingdom - Untitled (from 'Expanses' CD),Dronarivm,Ambient,Electronic,Indie
+Последний герой,KinoCoj,Russian Rock,Post-Punk,Alternative
+Место для шага вперед,KinoCoj,Russian Rock,Post-Punk,Alternative
+Gouge Away,Batuhan Sen,Alternative Rock,Post-Grunge,Punk Rock
+Totality,Feunix,Alternative,Indie Rock,Experimental
+the neighbourhood - the beach (instrumental, slowed & muffled ),Fun Player,Indie Rock,Slowed,Alternative
+snowfall w/ Øneheart,reidenshi & Øneheart,Electronic,Chillwave,Dream Pop
+The Pixies  - Monkey Gone To Heaven (Bass),Renato Meylan,Alternative Rock,Indie Rock,Post-Punk
+HEAD HANGIN LOW Feat. DNOK,Two-One,Trap,Alternative Hip Hop,Experimental
+Humming Bird,Adam The Alien,Indie Pop,Folk,Experimental
+I hope that u think of me,Pity Party (Girls Club),Indie Pop,Lo-fi,Dream Pop
+7.SR20DET,BLKSMIITH,Electronic,Experimental,Bass
+Kavinsky - Nightcall,Kavinsky,Synthwave,Electronic,Retrowave
+I'M NOT THE ONE IN TROUBLE HERE,lilscarl,Indie Rock,Alternative,Experimental
+I'm Here - OneShot OST,Midnight,Indie,Electronic,Instrumental
+Where is my mind (Slowed),aLex!,Indie Rock,Slowed,Alternative
+Pictures Of Purple Skies,Memorex Memories,Synthwave,Chillwave,Dreamwave
+Dreaming About You,Target Demographic,Indie Rock,Dream Pop,Alternative
+Machine Girl - Virtual Paradise (Neon White OST),Kade Chorusthorne (I STAND WITH UKRAINE),Electronic,Experimental,Bass
+Sun,憂鬱,Dream Pop,Indie Rock,Lo-fi
+lil peep x nirvana - beamer boy (miro),skiorly,Alternative Rock,Cloud Rap,Experimental
+Aurora,oDDling,Indie Rock,Alternative,Indie Pop
+separation anxiety,valentine,Indie Rock,Alternative,Post-Punk
+not needed in the real world,scarmaid,Electronic,Ambient,Experimental
+The Police - Every Breath You Take (Live in Montreal, Canada 1983),Worldmuzic ♬♪♫,Classic Rock,Pop,Soft Rock
+ecstacy - (slowed),SUICIDAL-IDOL,Slowed,Electronic,Alternative
+Rammstein original - Ich will,Ramshtain - Ich will,Industrial Metal,Alternative Metal,Electronic
+Lil Peep x Nirvana - Save That Shit (miro mashup),Andrew,Alternative Rock,Cloud Rap,Experimental
+star shopping (prod. kryptik),Lil Peep,Cloud Rap,Alternative Hip Hop,Emo Rap
+Metallica - Ride The Lightning,Renato Luis,Heavy Metal,Thrash Metal,Classic Rock
+For Whom The Bell Tolls,Jean-francois Kryl,Heavy Metal,Thrash Metal,Classic Rock
+Gal Costa E Nacao Zumbi - Barato Total,Salvadoreando,Música Popular Brasileira,Indie,Bossa Nova
+Ицык Цыпер feat. Игорь цыба - Дымок.mp3,🍉 HBK🪯,Russian Pop,Rap,Indie
+Восьмикласница,KinoCoj,Russian Rock,Post-Punk,Alternative
+Мои друзья,KinoCoj,Russian Rock,Post-Punk,Alternative
+Муравейник,KinoCoj,Russian Rock,Post-Punk,Alternative
+Мама Анархия,KinoCoj,Russian Rock,Post-Punk,Alternative
+Алюминиевые огурцы,KinoCoj,Russian Rock,Post-Punk,Alternative
+The Offspring You Are Gonna Go Far Kid,TheZorgen,Punk Rock,Alternative Rock,Indie Rock
+Когда твоя девушка больна,KinoCoj,Russian Rock,Post-Punk,Alternative
+Be Quiet And Drive Slowed and Reverbed,Deftones,Holding a Beating Heart,Slowed,Reverb,Alternative Rock
+Kekain,DJ ПЕРЕКРЫТ,Russian Hip Hop,Trap,Alternative
+Мякотка,DJ ПЕРЕКРЫТ,Russian Hip Hop,Trap,Alternative
+Дом с пониженным качеством,DJ ПЕРЕКРЫТ,Russian Hip Hop,Trap,Alternative
+В Питере жить хорошо,DJ ПЕРЕКРЫТ,Russian Hip Hop,Trap,Alternative
+Технологический инстиъуъ,DJ ПЕРЕКРЫТ,Russian Hip Hop,Trap,Alternative
+lucky you,deftones,ripmyfxceoff,Alternative Rock,Post-Grunge,Slowed
+game over.,goreshit,Breakcore,Electronic,Experimental
+sidewalks and skeletons goth (slowed+reverb),unkown,Electronic,Witch House,Slowed
+The Smashing Pumpkins - 1979,aidenh,Alternative Rock,Grunge,Slowed
+1979 - 𝙏𝙝𝙚 𝙎𝙢𝙖𝙨𝙝𝙞𝙣𝙜 𝙋𝙪𝙢𝙥𝙠𝙞𝙣𝙨 - 𝙎𝙥𝙚𝙙 𝙪𝙥,Heidi.luvs.u,Alternative Rock,Grunge,Sped Up
+Hustlaz,FXRGE,Hip Hop,Trap,Alternative
+tu vis dans ma caveau,jeveuxrien,Indie Rock,Alternative,Lo-fi
+LIL KRYSTALLL - Mazzaleen,Drughi1l,Hip Hop,Trap,Alternative
+COMEDOWNCHICK - БИЗНЕ$$ 9.5 MIXTAPE,COMEDOWNCHICK,Hip Hop,Trap,Alternative
+from da hills,ANNMALIBU,Hip Hop,Trap,Cloud Rap
+убей меня, эйс! - ничего святого,svttrzm.,Indie Rock,Alternative,Lo-fi
+Rise of the Centaur [FREE DL],Fixions,Synthwave,Electronic,Chiptune
+дом престарелых аутистов - синхрофазотрон,misakyia,Electronic,Experimental,Noise
+metamorphosis (old mix),tarutrit,Electronic,Experimental,Ambient
+90   Буерак,paragvaev,Russian Rock,Post-Punk,Alternative
+Suisside - Dark Side Of The Moon (Cut out beginning looped + Sped up + reverb),cut outs </3,Electronic,Sped Up,Experimental
+everlong - Foo Fighters // instrumental sped up,sakutq,Alternative Rock,Post-Grunge,Sped Up
+Everlong,Foo Fighters,Alternative Rock,Post-Grunge,Indie Rock
+Neuron,Garth_Knight,Synthwave,Electronic,Retrowave
+Dream Within A Dream,Lazerhawk,Synthwave,Chillwave,Electronic
+Feel The Rush Tonight (feat. GUNSHIP),Lazerhawk,Synthwave,Electronic,Chillwave
+knife.exe,scarmaid,Electronic,Experimental,Ambient
+distance (髪がゆれている),ward wills,Indie Pop,Dream Pop,Electronic
+off-white,Eery,Electronic,Indie,Alternative
+Growing Down [Free Download],Car-D Romantic,Indie,Chillwave,Lo-fi
+each other (w/ RŮDE),elijah who,Lo-fi,Chillhop,Indie
+Ficus [VINYL NOW AVAILABLE],WMD,Indie,Chillwave,Electronic
+SLOW JAM,CASSO BLVCK,Electronic,Indie,Chillwave
+тоска,молчат дома,Post-Punk,Indie Rock,Russian Rock
+5 Щенки - Страны,Helly Helen,Indie Rock,Russian Rock,Lo-fi
+Ультранасилие,Квентев,Russian Rock,Post-Punk,Alternative
+cеконд-хэнд,ssshhhiiittt!,Indie Rock,Alternative,Russian Rock
+4 Щенки - Поступим Так,Helly Helen,Indie Rock,Russian Rock,Alternative
+Только Честно,punkmodernisty,Indie Rock,Post-Punk,Lo-fi
+Лес поцелуев,Tvoe.daleko,Indie Rock,Dream Pop,Lo-fi
+ультранасилие - влажность (slowed 0,95),кукурузник,Slowed,Post-Punk,Indie Rock
+AL-90 & DX2OV - Odna [Fuselab],INVERTED AUDIO,Electronic,Experimental,Ambient
+Мотогонки - Ветер - Wind,1qaukeu5bxw0mj0ocosb44d4,Russian Rock,Indie Rock,Alternative
+fake cypher freestyle,BUDDHA KUSH,Hip Hop,Trap,Freestyle
+TVETH - Provolone,Wiedźmin,Hip Hop,Alternative,Rap
+You Are (Not) Alone W// Alparr,Ryder,Alternative,Indie,Lo-fi
+SNEG,roDICH,Alternative,Indie,Lo-fi
+Wrong Number 2,𝔐oon 𝔇eity,Electronic,Experimental,Indie
+ZODIVK, ZODIVK, Bearded Legend - The Wayfarer,ZODIVK,Hip Hop,Trap,Cloud Rap
+Prostie Dvizheniya (Простые Движения),t.A.T.u. Media,Pop,Dance,Russian Pop
+Army Of Me,Bjork,Electronic,Indie,Trip-Hop
+Kitty,low pulse,Indie Pop,Dream Pop,Lo-fi
+Веселая прогулка под феном,DJ ПЕРЕКРЫТ,Russian Hip Hop,Trap,Alternative
+18 C418 - Sweden,Minecraft Wizards,Electronic,Chillhop,Lo-fi
+TVETH х SEVNZ х Лора - 200,Русская Рэп-Сцена,Russian Hip Hop,Trap,Alternative
+Лучший вайб,Макс Корж,Russian Pop,Rap,Alternative
+Поэма о Родине,Хаски,Russian Rock,Rap,Alternative
+Freddie Dredd ft JEEMBO - K.O,66.6,Hip Hop,Trap,Alternative
+I Really Want to Stay at Your House,Senya Moro,Indie Pop,Chillwave,Electronic
+Stuck in the sound- Brother,Stuck In The Sound,Indie Rock,Alternative,Garage Rock
+Destruction,Joywave,Alternative Rock,Indie Rock,Electronic
+care only about me,dssctveself,Indie Pop,Alternative,Lo-fi
+Sweet Tooth,golemm,Electronic,Indie Pop,Alternative
+наизнанку,арурип,Indie Rock,Post-Punk,Alternative
+breaking knees with baseball bats,War 4ngelz255,Electronic,Noise,Experimental
+Simp Pilgrim,terra gatsuki,Indie Rock,Alternative,Indie Pop
+Oo Sweetman Pres. DJ Alan - 004 (P'ella Mix),Oo Sweetman,Dance,House,Electronic
+Make you mine,Melanite DJ,Electronic,Dance,House
+Fallen Angel,watering,Indie Pop,Lo-fi,Dream Pop
+Bomfunk Mc's - Freestyler (Feel XS Remix),Bomfunk Mc's,Electronic,Dance,House
+Bomfunk MC's - Freestyler (Wendy Bootleg),Wendy's Drive Thru,Electronic,Dance,Remix
+Убийца,влад пиво,Russian Rock,Post-Punk,Alternative
+вертушка газманова - школьница,**RE-Bonjour à Tous,Russian Rock,Indie Rock,Alternative
+Closed,plenka,Indie Rock,Alternative,Post-Punk
+plenka - Call Me (Slowed),Даник,Indie Rock,Alternative,Slowed
+nightmare (2015),plenka,Indie Rock,Alternative,Post-Punk
+murder,AENEAS,Indie Rock,Alternative,Lo-fi
+Reefer,eery,Indie,Electronic,Alternative
+БЫСТРЫЙ смн,СМН,Indie Rock,Alternative,Russian Rock
+Without,Unfound,Indie Rock,Alternative,Experimental
+23072301,Loog Taylor,Electronic,Ambient,Experimental
+Паша Техник - На надо,isemeltss,Russian Hip Hop,Trap,Alternative
+Телеграм,DJ ПЕРЕКРЫТ,Russian Hip Hop,Trap,Alternative
+ГЛИЦИН,DJ ПЕРЕКРЫТ,Russian Hip Hop,Trap,Alternative
+УБИЙЦЫ - ПИНГ-ПОНГ [НИИ GULAG REMIX],УБИЙЦЫ,Russian Rock,Post-Punk,Alternative
+Вертушка Газманова Девочка-фемка,Karbofos 🔥,Russian Rock,Indie Rock,Alternative
+amen break nostalgia,aphextwinsucks,Electronic,Ambient,Experimental
+УБИЙЦЫ - Горжусь,Убийцы,Russian Rock,Post-Punk,Alternative
+Staying awake for too long,watering,Indie Rock,Lo-fi,Alternative
+leo,watering,Indie Rock,Lo-fi,Alternative
+happy brain,watering,Indie Rock,Lo-fi,Alternative
+Dojacore 2,watering,Indie Rock,Lo-fi,Alternative
+you suck at love,watering,Indie Rock,Lo-fi,Alternative
+generic emo breakcore,watering,Indie Rock,Lo-fi,Alternative
+playing 1.3.2 on my moms laptop without a single care for the outside world,watering,Indie Rock,Lo-fi,Alternative
+^_^,watering,Indie Rock,Lo-fi,Alternative
+~Death Note Misa Theme II,Paola Nadim,Soundtrack,Anime,Instrumental
+valasy ˚✧₊⁎nürnberg 【slowed & reverb】,blair,Indie Rock,Slowed,Alternative
+Scary Gary,aloo:),Indie Rock,Alternative,Post-Punk
+lost,ROU ROT & SADIE PINN,Indie,Electronic,Alternative
+Haunt - Falling In Love,J$RB,Indie Rock,Dream Pop,Lo-fi
+DARK BEACH,PASTEL GHOST,Dream Pop,Indie,Electronic
+Dark Beach (sped up),Pastel Ghost,Dream Pop,Indie,Electronic
+DARK BEACH (sped up),Pastel Ghost,Dream Pop,Indie,Electronic
+SALMON CANNON DELUXE,NANORAY,Electronic,Chiptune,Experimental
+FMH (v1)(меню) / OST Булки & кефир и рок-н-ролл,Саша & Макар,Indie,Soundtrack,Electronic
+Futureland Feat Power Glove,Sonic Mayhem,Electronic,Synthwave,Chiptune
+gesaffelstein - aleph (slowed reverb),raexak,Electronic,Experimental,Slowed
+dream of another way out,Visceral Design x anatu,Indie,Electronic,Experimental
+Vague003 – Drowning,Drowning,Indie Rock,Dream Pop,Lo-fi
+МЭЙБИ БЭЙБИ & КРОКИ — Банда-Пропаганда,МЭЙБИ БЭЙБИ,Russian Hip Hop,Trap,Alternative
+I wish to have a happy end,イア / ia,Indie,Experimental,Electronic
+through the light,dracodraco,Indie,Electronic,Experimental
+гнилаялирика - не слезай,Second Russian Rap Scene,Russian Hip Hop,Trap,Alternative
+Аскорбинка,ФРЕНДЗОНА & МЭЙБИ БЭЙБИ,Russian Hip Hop,Pop,Alternative
+There she goes Ezekiel,reveur_ki,Indie Rock,Post-Punk,Alternative
+Converter,MegaDrive,Synthwave,Electronic,Chiptune
+KENNY,OBLADAET,Russian Hip Hop,Trap,Alternative
+Silhouette Slowed By LX,Pastel Ghost & Rami Layli,Dream Pop,Indie,Electronic
+порез на собаке — у пожара внутри,Порез на Собаке,Indie Rock,Alternative,Lo-fi
+Ария Судьи,АИГЕЛ,Russian Rock,Alternative,Post-Punk
+The Prodigy - Smack My Bitch Up (Original Mix),Клим Белугин,Electronic,Dance,Big Beat
+BLADE,DJ BABY CASH,Electronic,Bass,Experimental
+Затусуйся под МС,KotE37,Russian Hip Hop,Trap,Alternative
+Головогрудь - Угля,Cephalothorax,Indie Rock,Post-Punk,Alternative
+D City Rock [ We Are Angels ] ( Original Remix ),YENI,Indie Rock,Alternative,Indie Pop
+OBORVI OKOVI,OBORVI OKOVI,Russian Hip Hop,Trap,Alternative
+Davay Priqolimsya,Alfa PwP,Russian Hip Hop,Trap,Freestyle
+Woven Hands And Torsos,adoptahighway,Experimental,Electronic,Indie
+Love Will Take,Zes,Indie Rock,Dream Pop,Lo-fi
+-Olive- By Jake Chudnow [HD],Jarrod Reque,Electronic,Indie,Ambient
+BLEED OUT,BLXCKBUSTA,Hip Hop,Trap,Alternative
+in search,Cheech,Indie Rock,Alternative,Post-Punk
+Nausea,LVCK,Indie Rock,Alternative,Dream Pop
+dream,пl3nk▲,Indie Rock,Dream Pop,Lo-fi
+NНΞЙ,ΔXIUS LIИK x ножевые ранения,Indie Rock,Alternative,Experimental
+Modulogeek - Around - Hotline Miami 2,Kebab Boy,Synthwave,Chiptune,Electronic
+Love Cassette from the Future,Funny Death,Indie Pop,Dream Pop,Lo-fi
+1932-33.(1),vokeebokæybgo lochtyblchvvaii,Indie,Experimental,Electronic
+The Red Strings Club - The Red Strings Club & OST,Orive,Electronic,Synthwave,Indie
+Clash Royale Theme - Drill Remix,User 471171505,Electronic,Instrumental,Remix
+Clash Royale Game Music Menu Theme Game Theme,The Universal VIII,Electronic,Instrumental,Remix
+Vignette: Panacea,Disasterpeace,Electronic,Chiptune,Soundtrack
+brian is the most beautiful,Memo Boy,Indie Pop,Lo-fi,Chillwave
+SALUKI Feat. ROCKET - Тупик (feat. ROCKET),Danilos,Russian Hip Hop,Trap,Alternative
+not gonna get us (vs. Tatu),plenka,Electronic,Chillwave,Alternative
+Plenka - Closed (Slowed),ramazzan40,Indie Rock,Slowed,Lo-fi
+Наш менталитет,FACE,Russian Hip Hop,Trap,Alternative
+Никакой любви,FACE,Russian Hip Hop,Trap,Alternative
+Death Talk (Nonsens),Junkie Jungle,Indie Rock,Post-Punk,Alternative
+Skillet-Monster(Cover),Zielosław Cover,Rock,Post-Grunge,Alternative
+Chase,KSLV,Electronic,Experimental,Bass
+soviet encounter problem,corn wave,Indie Rock,Alternative,Post-Punk
+Falkor's Return,Indecorum,Experimental,Electronic,Ambient
+Heaven Knows I'm Miserable Now,mock,Indie Rock,Alternative,Post-Punk
+decay,Blood Estate,Indie Rock,Lo-fi,Dream Pop
+plastic yard,Wh0r3agamiz,Electronic,Experimental,Noise
+mistake,William Woodhouse,Indie,Lo-fi,Dream Pop
+i dont think i can do this again but i destroyed it (early wip xd),ｌ ｅ ｘ ｕ ｓ Ｗ Ｉ Ｐ,Indie Pop,Lo-fi,Dream Pop
+Spill It On The Ground,JT,Indie,Chillwave,Electronic
+You Cant Hate Me Anymore,Rew,Indie Pop,Chillwave,Lo-fi
+If It's Never Right,Rew,Indie Pop,Lo-fi,Dream Pop
+Где Фантом - Это так архаично,Triskelis,Indie Rock,Post-Punk,Alternative
+Остров,МЫ,Indie,Chillwave,Lo-fi
+Кино & Дерево,acjazz,Russian Rock,Post-Punk,Alternative
+прогноз,молчат дома,Post-Punk,Indie Rock,Russian Rock
+Где Фантом? - Я Тебя Люблю,nPocTo_DyHyJl,Indie Rock,Post-Punk,Alternative
+Где Фантом? - Старик,жаворонок кишок,Indie Rock,Post-Punk,Alternative
+Вечеринка,Космос на потолке,Indie Rock,Post-Punk,Alternative
+Балкон,Космос на потолке,Indie Rock,Post-Punk,Alternative
+номер 5,Цирроз Пенсии,Indie Rock,Post-Punk,Alternative
+No Man's Land - Смеётся,No Man's Land,Indie Rock,Post-Punk,Alternative
+houseplant,they are gutting a body of water,Indie Rock,Dream Pop,Lo-fi
+ACID EATER,Goth Hippie,Indie Rock,Post-Punk,Alternative
+Out of Time,deb never,Indie Pop,Dream Pop,Lo-fi
+GRNFTHR (Produced by Paper Platoon),SPARK MASTER TAPE,Hip Hop,Trap,Alternative
+Stacey,Sink Saiko,Indie Rock,Alternative,Lo-fi
+chess,KoçitSkoria & Orqzeu,Electronic,Experimental,Indie
+Her best friend,Sorry about my face,Indie Pop,Dream Pop,Lo-fi
+Inhuman (w/ aak3),usedcvnt,Hyperpop,Alternative,Trap
+CRIMINAL,&SXGXVX.,Indie Rock,Alternative,Post-Punk
+everyone remembers,Sorry about my face,Indie Pop,Dream Pop,Lo-fi
+dsa,Sorry about my face,Indie Pop,Lo-fi,Chillwave
+I Felt You -xxtarlit,Aza.,Indie Pop,Lo-fi,Dream Pop
+Wpcwe - расскажи мне 134,kkkar78,Indie Rock,Post-Punk,Alternative
+Sadness - I want to be with you (glitchtrode Remix),glitchtrode,Indie Pop,Lo-fi,Electronic
+8.F R A G M E N T,BLKSMIITH,Electronic,Experimental,Noise
+Панк,КРУЖОК,Russian Rock,Post-Punk,Alternative
+Хоровод,КРУЖОК,Russian Rock,Post-Punk,Alternative
+Свист,КРУЖОК,Russian Rock,Post-Punk,Alternative
+Эмиграция,КРУЖОК,Russian Rock,Post-Punk,Alternative
+Skrillex&Missy Elliott & Mr. Oizo - RATATA,Skrillex,Electronic,Dubstep,Bass
+Intro (ft Zola Jesus),M83,Electronic,Ambient,Indie
+Fire Shall Devour Them,REPOSTMAN,Electronic,Ambient,Experimental
+Ash&Black Veil,Mute Records,Indie Rock,Experimental,Alternative
+Tempo Perdido (Legião Urbana),Papagaio Elétrico,Indie Rock,Post-Punk,Alternative
+Two Weeks,Grizzly Bear,Indie Rock,Alternative,Dream Pop
+Плохая Сука (original),Песар & Gone.Fludd,Russian Hip Hop,Trap,Alternative
+ВУДУ,Gone.Fludd,Russian Hip Hop,Trap,Alternative
+МОГУ ПНУТЬ ЭТО (feat. ​I61),Gone.Fludd,Russian Hip Hop,Trap,Alternative
+the only thing i had to do,LovelySharkPlush,Indie Pop,Lo-fi,Dream Pop
+transsibir',Cheech,Indie Rock,Alternative,Post-Punk
+SEEMEE & MAYOT – WINDOWS,SEEMEE & MAYOT,Russian Hip Hop,Trap,Cloud Rap
+I Dance Alone,Hiroshi Fujiwara,Electronic,House,Dance
+JUNGLE,BATO & JEEMBO & SEEMEE,Russian Hip Hop,Trap,Alternative
+KIZARU X OG Maco - Sunny Drive,NumLOW,Hip Hop,Trap,Alternative
+boys dont cry - sped up,lizzy :),Alternative Rock,Sped Up,Post-Punk
+dirk. - Toothpick By Hello.babbie,hellobabbie,Indie Rock,Alternative,Post-Punk
+insomniac- memo boy/chakra efendi SLOWED,i,Lo-fi,Chillwave,Slowed
+Kyoto Station,RetroJapan,Electronic,Ambient,Chillwave
+Where Is Your Love?,sorryyyouaredeaddd,Indie Pop,Lo-fi,Dream Pop
+Memo Boy  Chakra Efendi-Insomniac,prprprpr,Indie Pop,Lo-fi,Chillwave
+Frail – Crystal Castles,&//,Electronic,Noise,Experimental
+Nemesis,Kick Puncher,Electronic,Synthwave,Indie
+Confrontation,Speed Machine,Electronic,Chiptune,Synthwave
+Journey,sayuw,Indie Rock,Alternative,Dream Pop
+~Death Note Mello Theme I,Paola Nadim,Soundtrack,Anime,Instrumental
+Death Note Ending 2 [Full],Taha Furkan Çolak,Soundtrack,Anime,Instrumental
+~Death Note Misa Theme I,Paola Nadim,Soundtrack,Anime,Instrumental
+Deathnote|Kodoku,death note soundtrack,Soundtrack,Anime,Instrumental
+UNDERTALE - Small Shock (GENOCIDE with rain ambience EXTENDED),wawa,Soundtrack,Video Game Music,Instrumental
+Toby Fox - UNDERTALE Soundtrack - 28 Premonition,angrysausage,Soundtrack,Video Game Music,Instrumental
+Escape From Midwich Valley,Carpenter Brut,Synthwave,Electronic,Retrowave
+Delay - Hotline Miami 2,Kebab Boy,Synthwave,Chiptune,Electronic
+Bloodline (Scattle cover),und3ad,Synthwave,Electronic,Retrowave
+Fixions - Putrid Waves,Fixions,Synthwave,Electronic,Chiptune
+LudoWic - Katana ZERO (Shore Disorder Remix),LudoWic,Synthwave,Electronic,Retrowave
+монеточка — последняя дискотека (prod. витя исаев),godXtsar,Russian Pop,Indie,Alternative
+Дайте танк (!) - Люди,sumfUll,Russian Rock,Indie Rock,Alternative
+МОНЕТОЧКА — ПАДАТЬ В ГРЯЗЬ,M12,Russian Rock,Indie Rock,Alternative
+Flёur - Будь моим смыслом,bilka?,Russian Rock,Indie,Alternative
+Воха & Лёха,Serhii Savochkin,Russian Hip Hop,Alternative,Freestyle
+Электрофорез feat. Superkomfort - Фотограф,neurojutsu,Indie Rock,Post-Punk,Alternative
+Дайте танк (!) - Мы,Эксперт по холодильникам,Russian Rock,Indie Rock,Alternative
+The Violent Youth - Shine,Noire Shapes,Indie Rock,Post-Punk,Alternative
+дайте танк (!) - утро,картошка,Russian Rock,Indie Rock,Alternative
+BEETLEBUM,BacktoBeat,Indie Rock,Alternative,Garage Rock
+Halfway To Nowhere,chelou,Indie Rock,Dream Pop,Lo-fi
+꒱࿐♡ ˚.*ೃ Niteroi Basket ft. Caru ꒱࿐♡ ˚.*ೃ,Lena,Indie Pop,Lo-fi,Dream Pop
+Boulevard of Broken Dreams,Nitin soni 10,Alternative Rock,Post-Grunge,Indie Rock
+Beck - Ramona (Acoustic),Scott Pilgrim Music,Indie Rock,Alternative,Soundtrack
+WPCWE - ANOREXY,WPCWE,Indie Rock,Post-Punk,Alternative
+Щенки - Уходи если хочешь,Щенки,Russian Rock,Post-Punk,Alternative
+Bad party,Hensonn,Indie Rock,Post-Punk,Lo-fi
+Fkbambam (ft Hensonn)- Dark Sauce,Myles Johnson,Indie Rock,Alternative,Post-Punk
+Cупер - Магазин,i61 & Powerpuff Luv,Russian Hip Hop,Trap,Alternative
+LOCO SMOCO FREESTYLE (OG PRINCE & ROCKET RMX),OBLADAET,Russian Hip Hop,Trap,Alternative
+MUTANT,OBLADAET,Russian Hip Hop,Trap,Alternative
+WRONG,OBLADAET,Russian Hip Hop,Trap,Alternative
+Молчат Дома - Ответа Нет (slowed + Reverb),_T R A S H,Russian Rock,Post-Punk,Slowed
+Дети Рейв - Факела.mp3,Akim,Russian Hip Hop,Trap,Alternative
+КГБ (feat. SQWOZ BAB),ДЕТИ RAVE,Russian Hip Hop,Trap,Alternative
+The Way Home,Magic Sword,Synthwave,Electronic,Chiptune
+Legend Of The Keeper,Magic Sword,Synthwave,Electronic,Chiptune
+NARC,Mega Drive,Synthwave,Electronic,Chiptune
+NARC³,Mega Drive,Synthwave,Electronic,Chiptune
+МОЛЧAТ ДОМА – НЕТ БЛЯТЬ РАЗГОВAPИВАЮТ  1.Kla$ – Почему, Mashup,MommyPick,Russian Rock,Post-Punk,Alternative
+Мотогонки - Лихолесье,k1n5_bt,Russian Rock,Post-Punk,Alternative
+Sewerslvt - dissociating,NURTTEON,Electronic,Experimental,Ambient
+itkeepshappening,_skott.y,Indie Rock,Alternative,Lo-fi
+ORION - TIME FOR CRIME,sheitmah,Indie Rock,Post-Punk,Alternative
+Down,Swardy,Electronic,Ambient,Indie
+NO HOOK NO HOES (feat. Yung Hurn),Boulevard Depo,Hip Hop,Trap,Alternative
+Autopoetry,Boulevard Depo & SP4K,Hip Hop,Trap,Alternative
+Qwerty Lang,Boulevard Depo & SP4K,Hip Hop,Trap,Alternative
+Грязь,Boulevard Depo,Hip Hop,Trap,Alternative
+СПБЧ - Маленькие человечки 2010,Самое Большое Простое Число,Russian Rock,Indie Rock,Alternative
+Хочу нажраться,Страдалец,Russian Rock,Indie Rock,Alternative
+Girls Gone Wild,Captain Ahab,Electronic,Indie,Dance
+ИНОГДА,ДЕТИ RAVE,Russian Hip Hop,Trap,Alternative
+Boulevard Depo & Ocb Smoking Raw,Jord,Hip Hop,Trap,Alternative
+Migraine,Cheech,Indie Rock,Alternative,Post-Punk
+FRESH SOFT ft.Boulevard Depo x Pharaoh x Basic Boy (Prod.by White Punk),i61 & Boulevard Depo & Pharaoh & Basic Boy,Hip Hop,Trap,Alternative
+DRUG,Boulevard Depo,Hip Hop,Trap,Alternative
+Run,Awolnation,Alternative Rock,Indie Rock,Post-Grunge
+Друг,Буерак,Russian Rock,Post-Punk,Alternative
+Изнасилование и канибализм - Ты Прекращаешь Дышать,Изнасилование И Каннибализм,Noise,Experimental,Electronic
+Mono Death -  Расстройство Joy Division,fifty__blessings,Indie Rock,Post-Punk,Alternative
+Offset Ft. Cardi B - Clout [Instrumental],IceHell死,Hip Hop,Trap,Instrumental
+Hotline Miami Theme,Benny Smiles,Synthwave,Chiptune,Electronic
+Perturbator - Sexualizer (Feat. Flash Arnold),PERTURBATOR,Synthwave,Electronic,Chiptune
+Acid Spit,MegaDrive,Synthwave,Electronic,Chiptune
+Scattle - It's Safe Now,DevolverDigital,Synthwave,Electronic,Retrowave
+Scattle - Flatline,DevolverDigital,Synthwave,Electronic,Retrowave
+Упал,Буерак,Russian Rock,Post-Punk,Alternative
+The Order,Kick Puncher,Electronic,Chiptune,Synthwave
+Scattle- Cursive (Surgeryhead Remix),Surgeryhead,Synthwave,Electronic,Chiptune
+Die Cosmonaut,EL TIGR3,Electronic,Experimental,Noise
+Кайф,Бенгальские Подонки,Russian Rock,Post-Punk,Alternative
+Буерак - Конокрад 2020,lmntvmtrlsm,Russian Rock,Post-Punk,Alternative
+Heist,EL TIGR3,Electronic,Experimental,Noise
+Power Core,Power Glove,Synthwave,Electronic,Chiptune
+RSAC _ KAK NIKTO NIKOGDA,Felix Bondarev & RSAC,Russian Hip Hop,Trap,Alternative
+персиковые сады,отsтань,Russian Rock,Indie Rock,Alternative
+Конец Электроники - Ночь,Конец Электроники,Russian Rock,Post-Punk,Alternative
+Непонятный Руководящий Импульс,Буерак,Russian Rock,Post-Punk,Alternative
+Спортивные Очки,Буерак,Russian Rock,Post-Punk,Alternative
+Legalize Nuclear Bombs,vs4lt,Experimental,Electronic,Alternative
+Ice cream boy - Changing,مصطفى 𓂀,Indie Pop,Lo-fi,Dream Pop
+ETERNAL SZN (IG @eyezhateu),EYEZ HATE U,Trap,Hip Hop,Alternative
+ГАЗОВАЯ ЕБЛЯ - ТРУП КОСМОНАВТА НА ОРБИТЕ,breakMyMind,Noise,Experimental,Electronic
+chepou,Cheech,Indie Rock,Alternative,Post-Punk
+02 Xororô feat. Russo Passapusso (Uproot Andy Remix),MAGA BO,Electronic,World,House
+PORTWAVE - WHAT WE DO,PORTWAVE,Synthwave,Electronic,Chillwave
+lebanon hanover - gallowdance △Sco△,Lebanon Hanover,Post-Punk,Indie Rock,Gothic Rock
+Crystal Castles - Wrath Of God,Last Gang Records,Electronic,Noise,Experimental
+CP mikro kei( Паша Техник prod. ),Паша Техник,Russian Hip Hop,Trap,Alternative
+Fourlikooola,Паша Техник,Russian Hip Hop,Trap,Alternative
+Undertale - Uwa!! So Holiday♫ (Lo-Fi Remix),RoboticWisp,Lo-fi,Chillwave,Indie
+Crystal Castles - Frail /Remix,Olivier Adamczyk,Electronic,Noise,Experimental
+Comfortably Numb Pink Floyd The Wall,Stephanie Valdez Alrz,Classic Rock,Psychedelic Rock,Progressive Rock
+My Bloody Valentine Loveless,Ateş Evren,Indie Rock,Shoegaze,Alternative
+FEDERAL,13XBEATS,Trap,Hip Hop,Alternative
+MIND SPLIT,KUTE,Experimental,Electronic,Noise
+Kerosene - Crystal Castles (Slowed),apastopic,Electronic,Noise,Slowed
+ALYSS - Pyramid slowed to perfection (instrumental),Xero,Electronic,Slowed,Instrumental
+Wild AI Baby,KFC Murder Chicks,Noise,Experimental,Electronic
+Mac DeMarco & Ode to Viceroy,capturedtracks,Indie Rock,Lo-fi,Alternative
+песни для взрослых - удивительно,onethousandmurder,Russian Rock,Indie Rock,Alternative
+shit - на моем велосипеде,Кароліна Романова,Indie Rock,Lo-fi,Alternative
+Ruins - PS4 Theme,Sapph,Soundtrack,Ambient,Instrumental
+Ben Briggs - TEM SHOP (Undertale Remix),Ben Briggs & GameChops,Chiptune,Electronic,Remix
+Toby Fox - UNDERTALE Soundtrack - 24 Bonetrousle,angrysausage,Soundtrack,Video Game Music,Instrumental
+Toby Fox - UNDERTALE Soundtrack - 71 Undertale,angrysausage,Soundtrack,Video Game Music,Instrumental
+undertale temmie get money for colege,archdiggle,Soundtrack,Video Game Music,Chiptune
+Calamity,Yvetzal,Indie Pop,Dream Pop,Lo-fi
+Самое Большое Простое Число - Горизонт,LookFor,Russian Rock,Indie Rock,Alternative
+Аквариум - Искусство быть смирным,collider-kun,Russian Rock,Post-Punk,Alternative
+daLIGHTman x MoonDeity - Do you like Tokyo?,𝔐oon 𝔇eity,Electronic,Ambient,Experimental
+bloodthirsty,Feerix,Indie Rock,Alternative,Experimental
+Lazerhawk Interstellar,Lazerhawk,Synthwave,Electronic,Chillwave
+OUT THE DOOR,fkbambam,Electronic,Bass,Alternative
+Slipknot - Duality (Groove Delight Bootleg),Groove Delight,Electronic,Metal,Remix
+СКОТОБОЙНЯ-ТАБЛЕТКИ,Кислота,Noise,Experimental,Indie
+Growling,Паша Техник,Russian Hip Hop,Trap,Alternative
+Бесполезно,Валентин Стрыкало,Russian Rock,Indie Rock,Alternative
+Союз Композиторов - ВВС,Союз Композиторов,Russian Rock,Indie Rock,Alternative
+Аквариум - Плоскость,User 436445392,Russian Rock,Post-Punk,Alternative
+Гребенщиков Аквариум - Иду на ты,Katya Akbarova,Russian Rock,Post-Punk,Alternative
+Аквариум - Город Золотой,Light cloud,Russian Rock,Post-Punk,Alternative
+Стрыкало - 92,Lenin,Russian Rock,Indie Rock,Alternative
+07 - Болт,Въеби ему Донателло!,Indie Rock,Post-Punk,Alternative
+Minimix 2021,Foxxy Dekay,Electronic,Experimental,Noise
+hurt redux,dyingdiy,Indie Rock,Post-Punk,Alternative
+Intervals,Equinox7,Indie Rock,Post-Punk,Alternative
+Небо Над Головой - Убежать,stillborn,Indie Rock,Post-Punk,Alternative
+2 Щенки - Грязь,Helly Helen,Indie Rock,Russian Rock,Alternative
+Телеэкран - Тысяча Дешёвых Зажигалок,lanesra,Indie Rock,Post-Punk,Alternative
+GSPD M & MN & KCП N - ПАКЕТИК КИСЛОТЫ,AndreyTaratukhin,Russian Rock,Indie Rock,Alternative
+GSPD M & MN & KCП N - АМФЕТАМИН,AndreyTaratukhin,Russian Rock,Indie Rock,Alternative
+GSPD - ты подсела на игру,лавка,Russian Rock,Indie Rock,Alternative
+катка,dlb,Russian Rock,Indie Rock,Alternative
+Metric - Black Sheep,Scott Pilgrim Music,Indie Rock,Alternative,Soundtrack
+Temperance,Occams Laser,Synthwave,Electronic,Chiptune
+one!,lovelysharkplush,Lo-fi,Dream Pop,Indie
+DJ ROZWELL - NONE OF THIS IS REAL [MOTHLAND],2k & aidan dookie archive,Electronic,Experimental,Indie
+Broken,ORAX,Synthwave,Electronic,Chillwave
+юность | speed up,7oldat,Russian Rock,Post-Punk,Slowed
+please be quiet,Sorry about my face,Indie Pop,Lo-fi,Dream Pop
+ЛСП - Не Убежал,senpall,Russian Hip Hop,Trap,Alternative
+Will Paquin - Satellite,Rise Against,Indie Rock,Alternative,Post-Punk
+KILL EVERYBODY (BARE NOIZE REMIX),Skrillex,Dubstep,Bass,Electronic
+KILL EVERYBODY,Skrillex,Dubstep,Bass,Electronic
+Operate - Peaches,Andrea Marie,Electronic,Dance,House
+Sound Witness System,AWOLNATION,Indie Rock,Alternative,Post-Grunge
+Hesitation,Hot Flash Heat Wave,Indie Rock,Dream Pop,Alternative
+Осознание,конец солнечных дней,Russian Rock,Indie Rock,Post-Punk
+Vanished - Crystal Castles,Caseyrisp4,Electronic,Noise,Experimental
+Lost Kitten,Metric,Indie Rock,Alternative,Pop
+Сёрф Увула,lolly,Russian Rock,Post-Punk,Alternative
+Перемотка – Первый снег,driedflower,Russian Rock,Indie Rock,Alternative
+Joy Division - Disorder,Forever Forgotten,Post-Punk,Alternative,Classic Rock
+Щенки – «По кругу» (Он Юн mix),On Yun,Russian Rock,Indie Rock,Alternative
+Дерево Луч - 27 Секунд,Forstrim,Russian Rock,Indie Rock,Alternative
+Щенки - Whos Your Daddy,Felix Bondarev & RSAC,Russian Rock,Indie Rock,Alternative
+где фантом? - смотрю в глаза,42,Indie Rock,Post-Punk,Alternative
+Буерак - Боль,Nobody,Russian Rock,Post-Punk,Alternative
+Cigarette For Us,The KickDrums,Indie Rock,Alternative,Garage Rock
+Где Фантом? - Это Так Архаично,derevo,Indie Rock,Post-Punk,Alternative
+Буерак - Корень Имбиря,buerak,Russian Rock,Post-Punk,Alternative
+phonon - polyriddim,phonon,Electronic,Experimental,Bass
+Sleep,Slowdive,Shoegaze,Dream Pop,Indie Rock
+Valasy,Nürnberg,Post-Punk,Indie Rock,Alternative
+Небо,SadSvit,Indie Rock,Dream Pop,Lo-fi
+готика панелек - егорbez x фикус гогена,bnhxbvt,Indie Rock,Post-Punk,Alternative
+егорbez - До-Тла,sippi cup,Russian Rock,Indie Rock,Post-Punk
+релакс,потому что я панк,Indie Rock,Punk,Alternative
+Музыка чтобы ухаживать за своим АК-47,потому что я панк,Indie Rock,Punk,Alternative
+Буерак - Медляк,buerak,Russian Rock,Post-Punk,Alternative
+Лиловые тюльпаны - Пожалуйста только не домой,Лиловые Тюльпаны,Russian Rock,Post-Punk,Alternative
+into the astral plane,Nullset,Indie Rock,Dream Pop,Lo-fi
+At Home,Sad radio on Cassini,Indie Rock,Dream Pop,Lo-fi
+Тебя Нет,ssshhhiiittt!,Russian Rock,Indie Rock,Post-Punk
+James Pants - Strange Girl,Stones Throw Records,Indie Pop,Electronic,Alternative
+summer playlist,corn wave,Indie Rock,Alternative,Post-Punk
+Возвращайся,angel vox,Russian Rock,Post-Punk,Indie
+Девочка - Лсд,егор натс,Russian Hip Hop,Alternative,Indie
+Touched,Swap Babies,Indie Pop,Lo-fi,Dream Pop
+егорbez - М.Т.Ф,bnhxbvt,Russian Rock,Indie Rock,Post-Punk
+Любовь,Свидание,Indie Rock,Dream Pop,Lo-fi
+УБИЙЦЫ - NLB,Убийцы,Russian Rock,Post-Punk,Alternative
+Destiny,Kiile,Electronic,Experimental,Indie
+I Want To Fall In Love on Snapchat,Chris Zabriskie,Indie Pop,Lo-fi,Chillwave
+Sidewalks and Skeletons & Brothel - Higher,Sidewalks and Skeletons & Brothel,Witch House,Electronic,Indie
+Sidewalks And Skeletons & Catslash - Vices,Sidewalks And Skeletons & Catslash,Witch House,Electronic,Indie
+Корень имбиря,потому что я панк,Russian Rock,Post-Punk,Alternative
+Ocean Drive,MIAMI NIGHTS 1984,Synthwave,Electronic,Chillwave
+baby my phone (prod. deko),Yameii Online,Hyperpop,Electronic,Pop
+Moderat - A New Error,pasdewe,Electronic,Techno,IDM
+Папин Олимпос - Официантка,Vsevolod Maslov,Russian Rock,Post-Punk,Alternative
+фрик пати все что я умею,koenokatetsu,Russian Rock,Post-Punk,Alternative
+Всё в порядке,DK,Russian Rock,Indie Rock,Post-Punk
+Ты меня не ищи (feat. Вирус),DK,Russian Rock,Indie Rock,Alternative
+The Drums - I Dont Know How To Love,maria,Indie Rock,Alternative,Dream Pop
+Алёна Швец - олимпос »,dayssago,Russian Pop,Alternative,Indie
+нексюша - Айтишник,sharoeb,Russian Hip Hop,Trap,Alternative
+ESCAPE2021,klimusik,Electronic,Indie,Experimental
+Rojo,Sway,Hip Hop,Trap,Alternative
+pa$$ the time - bronze (Agderius Remix),Agderius,Electronic,Indie,Experimental
+deftones - please let me get what i want (slowed+reverb),愛 と 芸 術,Slowed,Reverb,Indie
+deftones • *+ be quiet and drive *+,• slowedstation ❦ •,Indie Rock,Slowed,Alternative
+gut feeling,TanmanG,Indie Rock,Alternative,Post-Punk
+𝔅𝔢 𝔮𝔲𝔦𝔢𝔱 𝔞𝔫𝔡 𝔡𝔯𝔦𝔳𝔢.,cock sucker,Indie Rock,Post-Punk,Alternative
+Theory Of Everything,jman22227,Indie,Experimental,Ambient
+winter mix.com/2016.2017,kedr_livanskiy,Electronic,Experimental,Ambient
+МБ Пакет - Алиса в Стране,Мой Бумажный Пакет,Indie,Experimental,Electronic
+Даная,Убийцы,Russian Rock,Post-Punk,Alternative
+Ножики,Убийцы,Russian Rock,Post-Punk,Alternative
+УБИЙЦЫ CRYSTAL - Гривачи,УБИЙЦЫ CRYSTAL,Russian Rock,Post-Punk,Alternative
+Decadent Dreams: Main Titles,Neon Vandal,Synthwave,Electronic,Chillwave
+OMORI OST - 006 Let's Get Together Now!,:-Existentialcrisis-:,Soundtrack,Video Game Music,Instrumental
+The Beatles - Eleanor Rigby,Bowl Of Chowda,Classic Rock,Pop,Psychedelic Rock
+Gefradah - Cancertid,Fachmann,Indie Rock,Experimental,Alternative
+ooes - последнее лето,vitasik,Indie Rock,Post-Punk,Alternative
+Subtle Sexuality - Male Prima Donna - The Office,3rtc,Indie,Pop,Alternative
+Даже моя бэйби не знает,ПОШЛАЯ МОЛЛИ,Russian Rock,Indie Rock,Punk
+FacexHugger - The new batch,-ft-,Synthwave,Electronic,Chillwave
+FacexHugger - Power Unleashed (Feat. Street Cleaner),-ft-,Synthwave,Electronic,Chillwave
+Клеопатри,ПОШЛАЯ МОЛЛИ,Russian Rock,Punk,Alternative
+So Fine & So Mine,DOGLAND,Indie Rock,Dream Pop,Lo-fi
+Le Castle Vania – Red Circle (LED Spirals & Shots Fired),marcelomed22,Electronic,House,Chillwave
+Mushroom Rock,けｍ SURF,Indie Rock,Post-Punk,Alternative
+Courtside/Swang Remix,Inner Wave,Indie Rock,Dream Pop,Alternative
+1 4 2,Inner Wave,Indie Rock,Dream Pop,Alternative
+PRACTICAL HEART by Bryan Aspey & Quantum Lovers,BORO,Indie Pop,Lo-fi,Dream Pop
+ADVICE & VICES,CHELSEA WOLFE,Indie Rock,Gothic Rock,Alternative
+Pixies - Ana,damasound,Indie Rock,Post-Punk,Alternative
+Stand Tall,Dirty Heads,Indie Rock,Alternative,Lo-fi
+Horcrux,FELO SKURT,Indie Rock,Post-Punk,Alternative
+Lost My Mind,Sun Era,Indie Pop,Lo-fi,Dream Pop
+Kid,Sun Era,Indie Pop,Lo-fi,Dream Pop
+unusual breakcore mix,rémi,Breakcore,Electronic,Indie
+CHERRY WAVES - DEFTONES (sped up),gaby,Indie Rock,Sped Up,Alternative
+SENSE,SEXKILLA,Electronic,Indie,Experimental
+Yahochupikachu - рашатудей,No name No life,Hip Hop,Trap,Alternative
+Убийцы Crystal - Home Video,Sergey Karpenko,Russian Rock,Post-Punk,Alternative
+Yahochupikachu - покаюсь,eniziz,Hip Hop,Trap,Alternative
+Thnkn [Feat. Rav] (Prod. miraa.),Kill Bill: The Rapper,Hip Hop,Alternative,Rap
+The Duel,Volkor X,Synthwave,Electronic,Chillwave
+WPCWE X ПАША ТЕХНИК - УЛИЦАСССАЛАСЬ,Vl.K,Russian Hip Hop,Trap,Alternative
+WPCWE x ПАША ТЕХНИК - Твоя мама ебалась с татаром,Constantin Dekhnich,Russian Hip Hop,Trap,Alternative
+Weezer - Say It Aint So,Duda Castro,Indie Rock,Alternative,Garage Rock
+M83 - Outro,Nikolya Che,Electronic,Indie,Ambient
+WPCWE - ЭТО НЕ ИСКУССТВО,webkey,Russian Rock,Indie Rock,Alternative
+WPCWE: Подружки-наркоманки //grechka,kи+a,Russian Rock,Post-Punk,Alternative
+PPK - Resurection (Space Club Mix),Smeltepunkt,Electronic,House,Techno
+Martin Solveig & Dragonette - Hello,Dragonette,Electronic,Pop,Dance
+Dan Terminus - Restless Destroyer,Dan Terminus,Synthwave,Electronic,Chillwave
+Dan Terminus - The Wrath Of Code (feat. Perturbator),Dan Terminus,Synthwave,Electronic,Chillwave
+Buddy Holly - Weezer,HappyHourband,Indie Rock,Alternative,Post-Grunge
+Би-2 - Компромисс,Julia & Winston,Russian Rock,Post-Punk,Alternative
+Feel Good Inc.,Everything Gorillaz - P2,Alternative Rock,Indie Rock,Electronic
+Би-2 - Молитва,Nelsaz,Russian Rock,Post-Punk,Alternative
+Stylo,Everything Gorillaz - P3,Alternative Rock,Indie Rock,Electronic
+Gorillaz - DoYaThing (Full Version),PlatinumLights,Alternative Rock,Indie Rock,Electronic
+Archive - Bullets,Dead City Blues,Indie Rock,Alternative,Experimental
+Porter Robinson & Madeon - Shelter,Porter Robinson,Electronic,House,Indie
+Illenium & Porter Robinson (Where'd You Go vs. Divinity),Illenium & Porter Robinson,Electronic,House,Indie
+Kedr Livanskiy - 2MR Transmission @ The Lot Radio July 25th 2018,Nikolya Che,Electronic,Indie,Ambient
+Wpcwe - you is mine,kkkar78,Indie Rock,Post-Punk,Alternative
+Brooklyn (feat. TumaniYO),Miyagi & Andy Panda,Russian Hip Hop,Trap,Alternative
+Undaground Enemy (DJ AKOZA EDIT),MC Holocaust,Hip Hop,Trap,Alternative
+Avril 14th,void_asterisk,Indie,Experimental,Ambient
+Школа не нужна,ПОШЛАЯ МОЛЛИ,Russian Rock,Indie Rock,Punk
+hang in there,LovelySharkPlush,Lo-fi,Chillwave,Indie
+sm chilling sht,void_asterisk,Indie,Chillwave,Lo-fi
+ElyOtto - SUGARCRASH!! (breakcore edit),LovelySharkPlush,Breakcore,Electronic,Experimental
+Crayon,feonao,Indie Pop,Lo-fi,Dream Pop
+OMORI OST - 005 By Your Side.,:-Existentialcrisis-:,Soundtrack,Video Game Music,Instrumental
+OMORI OST - 043 Finding Shapes In The Clouds,Cipo,Soundtrack,Video Game Music,Instrumental
+OMORI OST - 040 You Were Wrong. Go Back.,Cipo,Soundtrack,Video Game Music,Instrumental
+OMORI OST - 036 CHAOS ASSEMBLY,Cipo,Soundtrack,Video Game Music,Instrumental
+wpcwe_napuganniy напуганный,kkkar78,Russian Rock,Post-Punk,Alternative
+Preoccupied,FERNGAZER,Indie Rock,Post-Punk,Alternative
+spaces inbetween (sharky edit),LovelySharkPlush,Lo-fi,Chillwave,Dream Pop
+It's Not A Choice Kid,o.d. unknown,Indie Rock,Dream Pop,Lo-fi
+DOPE,SEXKILLA,Indie,Experimental,Electronic
+NOT OVER,SEXKILLA,Indie,Experimental,Electronic
+snowdrift,Xxtarlit⚸,Indie Pop,Dream Pop,Lo-fi
+Андрей,Убийцы,Russian Rock,Post-Punk,Alternative
+Убийцы - Пинг-понг,alicekinski,Russian Rock,Post-Punk,Alternative
+DenDerty - Кислота,Iggy Sharkov,Russian Rock,Post-Punk,Alternative
+как Киану,вертушка газманова,Russian Rock,Post-Punk,Alternative
+Youhate - Молодой И Пьяный,снами это было с нами,Russian Rock,Indie Rock,Alternative
+УБИЙЦЫ - Два Икса,Iam Igor,Russian Rock,Post-Punk,Alternative
+J R Y X 4ERNOBURKV - Speed,stefie322,Indie Rock,Post-Punk,Alternative
+12 хризантем,отsтань,Russian Rock,Indie Rock,Alternative
+УБИЙЦЫ CRYSTAL [Вика Чехова] - Кто я?,mlrd,Russian Rock,Post-Punk,Alternative
+Wpcwe – prelude 1.2,wpcwe1,Indie Rock,Post-Punk,Alternative
+Snow,LovelySharkPlush,Lo-fi,Dream Pop,Indie
+Cozy,LovelySharkPlush,Lo-fi,Dream Pop,Indie
+anything new,LovelySharkPlush,Lo-fi,Dream Pop,Indie
+a better way,LovelySharkPlush,Lo-fi,Dream Pop,Indie
+i got my soul back,LovelySharkPlush,Lo-fi,Dream Pop,Indie
+it was nice to talk to you again,LovelySharkPlush,Lo-fi,Dream Pop,Indie
+can we be friends?,LovelySharkPlush,Lo-fi,Dream Pop,Indie
+think of something nice,LovelySharkPlush,Lo-fi,Dream Pop,Indie
+home alone,LovelySharkPlush,Lo-fi,Dream Pop,Indie
+lonely,LovelySharkPlush,Lo-fi,Dream Pop,Indie
+Track no. 20,LovelySharkPlush,Lo-fi,Dream Pop,Indie
+things that never happened [lofi hiphop],LovelySharkPlush,Lo-fi,Dream Pop,Indie
+moving on [lofi hip hop],LovelySharkPlush,Lo-fi,Dream Pop,Indie
+i cant do anything about it [lofi hip hop],LovelySharkPlush,Lo-fi,Dream Pop,Indie
+you know me,LovelySharkPlush,Lo-fi,Dream Pop,Indie
+Maxzeroth-technoblock(cпіймай карася),maxzeroth_01,Electronic,Experimental,Indie
+wpcwe - whats is not (original),kkkar78,Indie Rock,Post-Punk,Alternative
+wpcwe_'olkyghfdsfgchkjl;' – kenrb;so,wpcwe1,Indie Rock,Post-Punk,Alternative
+Tonight,LovelySharkPlush,Lo-fi,Dream Pop,Indie

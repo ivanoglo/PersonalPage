@@ -57,11 +57,25 @@
                 }
             },
             physics: {
-                stabilization: false,
+                // stabilization: false,
+                enabled: true,
                 barnesHut: {
-                    gravitationalConstant: -8000,
+                    gravitationalConstant: -80000,
                     springConstant: 0.001,
                     springLength: 200
+                },
+                // repulsion: {
+                //     centralGravity: 0.03, // Gravity towards the center
+                //     springLength: 300, // Length of the springs
+                //     springConstant: 0.01, // Strength of the springs
+                //     nodeDistance: 100, // Minimum distance between nodes
+                //     damping: 0.09 // Damping factor
+                // },
+                stabilization: {
+                    iterations: 1000, // Number of iterations for stabilization
+                    updateInterval: 25, // Interval between updates
+                    fit: true,
+                    timestep: 0.5,
                 }
             }
         };
