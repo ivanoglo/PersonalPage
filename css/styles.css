@@ -1,0 +1,65 @@
+/* Basic reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Style the body for general appearance */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    padding: 20px;
+}
+
+/* Container for the Cytoscape graph */
+#cy {
+    width: 100%;
+    height: 600px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    margin-bottom: 20px;
+}
+
+/* Header or title for your project */
+h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+/* Style for additional content, if needed */
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Button styling, in case you need interaction */
+button {
+    padding: 10px 20px;
+    background-color: #5cb85c;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+}
+
+button:hover {
+    background-color: #4cae4c;
+}
+
+/* Style for highlighted nodes (optional, if you want this CSS to match your graph styles) */
+.node-highlighted {
+    background-color: #ff5733 !important;
+    border: 2px solid #ffcccb !important;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    #cy {
+        height: 400px;
+    }
+}
